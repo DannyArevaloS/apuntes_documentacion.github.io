@@ -45,6 +45,7 @@ nav:
       - Introducción: dotnet/index.md
   - Imágenes: images/index.md
   - Ejemplos de Apex: docs/ApexExamples.md
+  - Power Apps: power-apps.md
 
 markdown_extensions:
   - pymdownx.highlight:

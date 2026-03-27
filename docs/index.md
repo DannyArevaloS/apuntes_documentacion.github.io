@@ -19,6 +19,9 @@ Recursos y documentación sobre Java, incluyendo frameworks como Hibernate.
 ### 💻 .NET
 Información y guías sobre el ecosistema .NET.
 
+### ⚡ Power Apps
+Documentación sobre Power Apps, la plataforma low-code de Microsoft para crear aplicaciones empresariales.
+
 ## Navegación
 
 Utiliza el menú de navegación superior para explorar las diferentes secciones de la documentación.
