@@ -2,6 +2,8 @@ site_name: Documentación del Proyecto
 site_description: Proyecto de documentación técnica
 site_author: Danny
 
+
+
 theme:
   name: material
   language: es
@@ -29,8 +31,8 @@ theme:
 
 plugins:
   - search:
-      lang: es
-
+      lang: es 
+ 
 nav:
   - Inicio: index.md
   - Salesforce:
@@ -42,6 +44,7 @@ nav:
   - .NET:
       - Introducción: dotnet/index.md
   - Imágenes: images/index.md
+  - Ejemplos de Apex: docs/ApexExamples.md
 
 markdown_extensions:
   - pymdownx.highlight:
